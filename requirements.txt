@@ -1,0 +1,4 @@
+telnetlib
+requests
+platform
+argparse
