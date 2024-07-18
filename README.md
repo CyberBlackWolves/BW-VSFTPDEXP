@@ -18,7 +18,7 @@ chmod +x *
 
 pip install -r requirements.txt
 
-python BW-VSFTPD-ExP.py --host 127.0.0.1
+python BW-VSFTPD-ExP.py -host 127.0.0.1
 
 replace 127.0.0.1 with Target IP address ,
 run the script and enjoy hacking :) 
